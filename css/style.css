@@ -3961,6 +3961,7 @@ ul {
 /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_footer.scss */
 .footer-area {
   background-color: #f3f6f7;
+  text-align: center;
 }
 
 @media (max-width: 991px) {
@@ -4067,11 +4068,12 @@ ul {
 .footer-area .footer_logo {
   margin-bottom: 30px;
   display: inline-block;
+  text-align: center;
 }
 
 /* line 97, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_footer.scss */
 .footer-area .social_logo {
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 /* line 100, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_footer.scss */
