@@ -6249,4 +6249,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.column-animate:hover {
+    transition: transform .2s;
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.product-title {
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
