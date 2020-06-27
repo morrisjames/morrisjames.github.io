@@ -2356,32 +2356,7 @@ ul {
 }
 
 /* line 94, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_menu.scss */
-.dropdown .dropdown-menu {
-  transition: all 0.5s;
-  overflow: hidden;
-  transform-origin: top center;
-  transform: scale(1, 0);
-  display: block;
-  margin-top: -1px;
-}
 
-/* line 101, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_menu.scss */
-.dropdown .dropdown-menu .dropdown-item {
-  font-size: 14px;
-  padding: 9px 18px !important;
-  color: #000 !important;
-  text-transform: capitalize;
-}
-
-/* line 106, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_menu.scss */
-.dropdown .dropdown-menu .dropdown-item:hover {
-  color: #0065e1 !important;
-}
-
-/* line 113, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_menu.scss */
-.dropdown:hover .dropdown-menu {
-  transform: scale(1);
-}
 
 @media (max-width: 991px) {
   /* line 123, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_menu.scss */
