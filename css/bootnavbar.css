@@ -42,6 +42,15 @@
     font-size: x-large;
 }
 
+#myimage {
+    height: 200px;
+}
+#my-product-title {
+    text-align: center;
+}
+#productDiv {
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
     
     #navbar-logo {
@@ -52,6 +61,9 @@
     #cover-heading 
      {
         font-size: large;       
+    }
+    #myimage {
+        height: 150px;
     }
 
 }
